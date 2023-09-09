@@ -57,5 +57,5 @@ View my project through this link : https://parmita14.github.io/My-Excel-sheet/
 <hr>
 <b><i>Additional Feature </i></b><br>
 Mostly data structures and algorithms are used to optimise the time and space used by the program but here i have used DSA to solve a different problem that may occur using excel sheet.<br>
-Often times we make mistake while evaluating the formula.One of the them is evaluation of formula that creates cell dependency, the calculation of one cell depends on the other and vice versa. This causes a infinte loop that crashes the code. To resolve this problem i have used <b>Cycle detection algorithm of graph data structures</b>, this will detect if any dependency is present in formula.<br>
+Often times we make mistake while evaluating the formula.One of them is evaluation of formula that creates cell dependency, the calculation of one cell depends on the other and vice versa. This causes an infinte loop that crashes the code. To resolve this problem i have used <b>Cycle detection algorithm of graph data structures</b>, this will detect if any dependency is present in formula.<br>
 To avoid any confusion this program will show the cells where dependency is present and points out the mistake.<hr>
